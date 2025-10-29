@@ -61,7 +61,7 @@ I'm a **Telecommunications Engineering graduate student** at the University of M
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eliyahukyalley)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ekyalley@terpmail.umd.edu)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kofiyalley16@gmail.com)
 
 ## 🌍 Languages I Speak
 
