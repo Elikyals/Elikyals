@@ -10,7 +10,7 @@ I'm a **Telecommunications Engineering graduate student** at the University of M
 
 📊 **Data Engineer** with experience building alternative data platforms for financial decision-making
 
-🎓 Currently expanding my skillset through a **Full-Stack Developer Path** on Scrimba (React, Node, Express, Next.js, AI Engineering)
+🎓 Currently expanding my skillset through a **Full-Stack Developer Path** on Scrimba
 
 ## 🛠️ Technical Arsenal
 
@@ -20,6 +20,8 @@ I'm a **Telecommunications Engineering graduate student** at the University of M
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 **Network DevOps**: NETCONF • RESTCONF • PyEz • YANG Models • XML API • XPath • Jinja2 • SLAX • XSLT
 
@@ -36,6 +38,8 @@ I'm a **Telecommunications Engineering graduate student** at the University of M
 ### Languages & Development
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge)
@@ -43,7 +47,6 @@ I'm a **Telecommunications Engineering graduate student** at the University of M
 ### Currently Learning (Full-Stack Path 🌱)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
