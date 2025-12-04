@@ -65,7 +65,7 @@ I'm a **Telecommunications Engineering graduate student** at the University of M
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eliyahukyalley)
 [![Handshake](https://img.shields.io/badge/Handshake-00b767?style=for-the-badge&logo=handshake&logoColor=white)](https://app.joinhandshake.com/profiles/eliyahukyalley)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kofiyalley16@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliyahukyalley@gmail.com)
 
 ## 🌍 Languages I Speak
 
