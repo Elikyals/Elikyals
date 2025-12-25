@@ -44,6 +44,14 @@ I'm a **Telecommunications Engineering graduate student** at the University of M
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge)
 
+### Backend & Server Development
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Backend & Server Development**: Node.js • Express • NestJS • TypeScript • RESTful APIs • Async JavaScript • Databases (SQL) • Git • DevOps basics • Security-conscious backend development • Algorithms & data structures
+
 ### Currently Learning (Full-Stack Path 🌱)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
