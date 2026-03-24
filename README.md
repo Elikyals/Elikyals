@@ -10,7 +10,7 @@ I'm a **Telecommunications Engineering graduate student** at the University of M
 
 📊 **Data Engineer** with experience building alternative data platforms for financial decision-making
 
-🎓 Currently expanding my skillset through a **Full-Stack Developer Path** on Scrimba
+🎓 Proud **Scrimbassador** 🚀
 
 ## 🛠️ Technical Arsenal
 
@@ -39,6 +39,8 @@ I'm a **Telecommunications Engineering graduate student** at the University of M
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
@@ -47,16 +49,11 @@ I'm a **Telecommunications Engineering graduate student** at the University of M
 ### Backend & Server Development
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Backend & Server Development**: Node.js • Express • NestJS • TypeScript • RESTful APIs • Async JavaScript • Databases (SQL) • Git • DevOps basics • Security-conscious backend development • Algorithms & data structures
-
-### Currently Learning (Full-Stack Path 🌱)
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
 
 ## 🏆 Certifications
 
